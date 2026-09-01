@@ -1,0 +1,1 @@
+"""MSN Client GUI Package"""
