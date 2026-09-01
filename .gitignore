@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Build artifacts & executables
+dist/
+build/
+*.spec
+*.exe
+
+# Local configs & databases with sensitive passwords
+login_prefs.json
+*.log
+msn_settings.json
